@@ -6,8 +6,8 @@ I'm a passionate developer with a love for coding and exploring the endless poss
 ## 💼 Looking for Opportunities
 
 🎓 Graduate in AI&DS branch
-🏢 Actively seeking full-time positions in Data Science
-🌱 Passionate about machine learning and data science.
+🏢 Actively seeking for internship Artificial Intelligence , Machine Learning , Data Science and python developer
+🌱 Passionate about  Artificial Intelligence , machine learning and data science.
 
 
 ## 💻 Technologies and Skills
